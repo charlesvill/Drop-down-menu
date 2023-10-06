@@ -1,0 +1,23 @@
+{
+  "name": "@charlesvill/drop-down-menu",
+  "version": "1.0.0",
+  "description": "resuable drop down menu boilerplate code to use as needed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesvill/Drop-down-menu.git"
+  },
+  "keywords": [
+    "drop-down-menu"
+  ],
+  "author": "Charles Villalpando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesvill/Drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/charlesvill/Drop-down-menu#readme"
+}
